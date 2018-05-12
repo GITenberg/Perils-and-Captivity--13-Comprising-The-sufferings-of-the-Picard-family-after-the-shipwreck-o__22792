@@ -1,0 +1,52 @@
+_repo: Perils-and-Captivity--13-Comprising-The-sufferings-of-the-Picard-family-after-the-shipwreck-o__22792
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Maxwell, Patrick
+    gutenberg_agent_id: '25545'
+    url: http://www.gutenberg.org/2009/agents/25545
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Brisson, Pierre-Raymond de
+    birthdate: 1745
+    gutenberg_agent_id: '25547'
+    url: http://www.gutenberg.org/2009/agents/25547
+  - agent_name: Dard, Charlotte-Adelaïde
+    aliases:
+    - Dard, Charlotte-Adelaide
+    - Picard, Charlotte-Adelaïde Dard
+    gutenberg_agent_id: '25546'
+    url: http://www.gutenberg.org/2009/agents/25546
+  - agent_name: Godin des Odonais, Jean
+    alias: Odonais, Jean Godin des
+    birthdate: 1712
+    deathdate: 1792
+    gutenberg_agent_id: '25548'
+    url: http://www.gutenberg.org/2009/agents/25548
+description: ''
+gutenberg_issued: '2007-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22792'
+  lccn: 03030628
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picard family'
+- !lcc 'G'
+- !lcsh 'Shipwrecks -- South Atlantic Ocean'
+- !lcsh 'Africa, French-speaking West -- Social life and customs -- 18th century'
+- !lcsh 'Amazon River -- Description and travel'
+- !lcsh 'Méduse (Ship)'
+- !lcsh 'Africa, North -- Social life and customs -- 18th century'
+- !lcsh 'Godin des Odonais, Isabelle de Grandmaison, 1728?-'
+title: "Perils and Captivity\r\nComprising The sufferings of the Picard family after\
+  \ the shipwreck of the Medusa, in the year 1816; Narrative of the captivity of M.\
+  \ de Brisson, in the year 1785; Voyage of Madame Godin along the river of the Amazons,\
+  \ in the year 1770."
+url: http://www.gutenberg.org/ebooks/22792
